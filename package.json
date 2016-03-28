@@ -1,0 +1,12 @@
+{
+	"dependencies":
+	{
+		"coffee-script"	: "*",
+		"connect"		: "*",
+		"morgan"		: "*",
+		"serve-static"	: "*",
+		"socket.io"		: "*",
+		"uglify-js"		: "*",
+		"open"			: "*"
+	}
+}
